@@ -1,3 +1,11 @@
+/* 
+Program: Machine Problem 1
+Programmer: Francis Ludwick T. Madrid
+Section: AN22
+Start Date: June 6, 2023
+End Date: June 6, 2023
+*/
+
 // Define the grading system
 const gradingSystem = {
   A: 90,
